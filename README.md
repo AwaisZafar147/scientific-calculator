@@ -1,7 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=AWAIS-MD" alt="Typing SVG" /></a>
   </p>
 
-# Scientific Calculator
+<p align="center">
+  <h1 align="center">SCIENTIFIC CALCULATOR BY AWAIS-MD</h1>
+</p>
+
 
 A modern, feature-rich calculator web application with both basic and scientific calculation capabilities.
 
@@ -30,6 +33,3 @@ A modern, feature-rich calculator web application with both basic and scientific
 
 ## Getting Started
 
-<p align="center">
-  <h1 align="center">SCIENTIFIC CALCULATOR BY AWAIS-MD</h1>
-</p>
