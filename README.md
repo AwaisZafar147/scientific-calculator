@@ -29,3 +29,7 @@ A modern, feature-rich calculator web application with both basic and scientific
 - Responsive design for mobile and desktop compatibility
 
 ## Getting Started
+
+<p align="center">
+  <h1 align="center">SCIENTIFIC CALCULATOR BY AWAIS-MD</h1>
+</p>
