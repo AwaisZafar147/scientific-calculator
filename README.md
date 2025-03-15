@@ -28,18 +28,12 @@ A modern, feature-rich calculator web application with both basic and scientific
   - Clear entry (CE) and all clear (AC) functions
 
 ## Technologies Used
-
 - HTML5
 - CSS3 (with Flexbox/Grid for layout)
 - JavaScript (for calculation logic)
 - Responsive design for mobile and desktop compatibility
 
   ###  About Me :
-
-<p align="center">
-  <img src="https://ibb.co/V0zvL4mZ/IMG-20241231-WA0096.jpg" />
-</p>
-
 - 👋 Hi, I’m Awais Zafar
 - ❎ I am a college student
 - 👨🏻‍🦱 18 years old 
@@ -56,6 +50,9 @@ A modern, feature-rich calculator web application with both basic and scientific
 </p>
 
 ---
+<p align="center">
+  <img src="https://ibb.co/V0zvL4mZ/IMG-20241231-WA0096.jpg" />
+</p>
 
 ## Getting Started
 
