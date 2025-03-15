@@ -53,6 +53,11 @@ A modern, feature-rich calculator web application with both basic and scientific
 <p align="center">
   <img src="https://ibb.co/V0zvL4mZ/IMG-20241231-WA0096.jpg" />
 </p>
+---
+(https://hebbkx1anhila5yf.public.blob.vercel-storage.com/awais.jpg-NsPRxmHZZazggIVdtU4mIEa23QcTLa.jpeg)
 
 ## Getting Started
+
+1. Clone the repository
+
 
