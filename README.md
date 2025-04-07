@@ -44,9 +44,9 @@ A modern, feature-rich calculator web application with both basic and scientific
 
 ###  How To Reach Me :
 <p align="center">
-<a href="https://youtube.com/@AwaisModsOfficial"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
-<a href="https://whatsapp.com/channel/0029Vb9k3Sl3QxSABoyVwx2j"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Vb9k3Sl3QxSABoyVwx2j" /><br>
-<a href="https://t.me/AwaisZafar147"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
+<a href="https://www.youtube.com/@SycoDevOfficial"><img src="https://img.shields.io/badge/YouTube-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
+<a href="https://whatsapp.com/channel/0029VbARMvAFHWq0c9JP8r1w"><img src="https://img.shields.io/badge/WhatsApp Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&link=https://whatsapp.com/channel/0029Vb9k3Sl3QxSABoyVwx2j" /><br>
+<a href="https://t.me/SycoDevOfficial"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 </p>
 
 ---
@@ -59,5 +59,6 @@ A modern, feature-rich calculator web application with both basic and scientific
 ## Getting Started
 
 1. Clone the repository
+2. Fork my repository .
 
 
