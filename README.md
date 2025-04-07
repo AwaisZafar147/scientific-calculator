@@ -1,10 +1,10 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=AWAIS-MD" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF033E&center=true&width=1000&height=200&lines=— 𝙎𝙮𝙘𝙤`𝘿𝙚𝙫 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡 🐉" alt="Typing SVG" /></a>
   </p>
   
 ---
 
 <p align="center">
-  <h1 align="center">SCIENTIFIC CALCULATOR BY AWAIS-MD</h1>
+  <h1 align="center">SCIENTIFIC CALCULATOR BY AWAIS ZAFAR</h1>
 </p>
 
 ---
