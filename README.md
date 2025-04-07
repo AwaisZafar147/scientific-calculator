@@ -51,7 +51,7 @@ A modern, feature-rich calculator web application with both basic and scientific
 
 ---
 <p align="center">
-  <img src="https://files.catbox.moe/esnasv.jpg" />
+  <img src="https://files.catbox.moe/imtl4d.jpg" />
 </p>
 ---
 (https://hebbkx1anhila5yf.public.blob.vercel-storage.com/awais.jpg-NsPRxmHZZazggIVdtU4mIEa23QcTLa.jpeg)
