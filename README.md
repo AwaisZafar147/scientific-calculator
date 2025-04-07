@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-  <h1 align="center">SCIENTIFIC CALCULATOR BY AWAIS ZAFAR</h1>
+  <h1 align="center">NEW ULTIMATE SCIENTIFIC CALCULATOR BY AWAIS ZAFAR</h1>
 </p>
 
 ---
